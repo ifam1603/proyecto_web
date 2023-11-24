@@ -1,0 +1,6 @@
+    
+Comandos:
+
+ para ver en que rama estas : "git branch "
+ para cambiarte de rama: "git checkout nombre_rama"
+ 
