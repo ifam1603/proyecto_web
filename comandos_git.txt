@@ -4,3 +4,5 @@ Comandos:
  para ver en que rama estas : "git branch "
  para cambiarte de rama: "git checkout nombre_rama"
  
+ cuando vayas a hacer un cambio primero hacer un commit en tu rama,cuando quieras pasarla a la rama principal 
+ te cambias a la rama main y pones el comando: "git checkout dulce "
